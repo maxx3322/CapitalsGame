@@ -1,0 +1,6 @@
+C:\Users\MaxGeers\source\repos\CaptialsGame\CaptialsGame.Data\bin\Debug\CaptialsGame.Data.dacpac
+C:\Users\MaxGeers\source\repos\CaptialsGame\CaptialsGame.Data\bin\Debug\CaptialsGame.Data.dll
+C:\Users\MaxGeers\source\repos\CaptialsGame\CaptialsGame.Data\bin\Debug\CaptialsGame.Data.pdb
+C:\Users\MaxGeers\source\repos\CaptialsGame\CaptialsGame.Data\obj\Debug\CaptialsGame.Data.sqlprojAssemblyReference.cache
+C:\Users\MaxGeers\source\repos\CaptialsGame\CaptialsGame.Data\obj\Debug\CaptialsGame.Data.dll
+C:\Users\MaxGeers\source\repos\CaptialsGame\CaptialsGame.Data\obj\Debug\CaptialsGame.Data.pdb

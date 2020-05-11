@@ -1,0 +1,9 @@
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\bin\Debug\netcoreapp3.1\CapitalsGame.Model.deps.json
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\bin\Debug\netcoreapp3.1\CapitalsGame.Model.dll
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\bin\Debug\netcoreapp3.1\CapitalsGame.Model.pdb
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\obj\Debug\netcoreapp3.1\CapitalsGame.Model.AssemblyInfoInputs.cache
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\obj\Debug\netcoreapp3.1\CapitalsGame.Model.AssemblyInfo.cs
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\obj\Debug\netcoreapp3.1\CapitalsGame.Model.dll
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\obj\Debug\netcoreapp3.1\CapitalsGame.Model.pdb
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\obj\Debug\netcoreapp3.1\CapitalsGame.Model.csprojAssemblyReference.cache
+C:\Users\MaxGeers\source\repos\CaptialsGame\CapitalsGame.Model\obj\Debug\netcoreapp3.1\CapitalsGame.Model.csproj.CoreCompileInputs.cache
